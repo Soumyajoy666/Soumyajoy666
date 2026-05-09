@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soumyajoy666
+- 👋 Hi, I’m @Soumya
 - 👀 I’m interested in Python and Linux
 
 <!---
